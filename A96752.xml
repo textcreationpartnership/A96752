@@ -1,0 +1,685 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letters of advice: touching the choice of knights and burgesses.</title>
+            <author>Wither, George, 1588-1667.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 44 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96752</idno>
+            <idno type="STC">Wing W3166</idno>
+            <idno type="STC">Thomason E15_9</idno>
+            <idno type="STC">ESTC R210017</idno>
+            <idno type="EEBO-CITATION">99868856</idno>
+            <idno type="PROQUEST">99868856</idno>
+            <idno type="VID">154848</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96752)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154848)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 3:E15[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Letters of advice: touching the choice of knights and burgesses.</title>
+                  <author>Wither, George, 1588-1667.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.A.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Geo. VVither.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon; place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Nouemb: 2d 1644".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain. --  Parliament. --  House of Commons --  Election districts --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:154848:1" rendition="simple:additions"/>
+            <head>Letters of Advice: TOUCHING The Choice of Knights and Burgeſſes.</head>
+            <head type="sub">
+               <hi>The Superſcription.</hi> To the Honourable Cities and Counties, of <hi>LONDON, Weſtminſter, Surry,</hi> and <hi>Southampton,</hi> (to whom I am eſpecially obliged) and to all other the Honourable and Worſhipfull Counties and Corporations throughout the Kingdome of <hi>England,</hi> and Dominion of <hi>Wales,</hi> to whom the choice of Knights and Burgeſſes for Parlia<g ref="char:EOLhyphen"/>ment doth appertaine; humbly pre<g ref="char:EOLhyphen"/>ſent theſe.</head>
+            <opener>
+               <salute>Honoured, and Beloved,</salute>
+            </opener>
+            <p>HAving, lately, received Information, that both <hi>Houſes of Parliament,</hi> are not onely reſolved to call their falſe and Apoſtate Members to a juſt account; but, for ever, alſo to diſable them from returning to <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at Parliamentarie truſt and dignitie, which they have unworthily diſho<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ured and deſerted; I preſumed thereupon, that the vacancie of thoſe many <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>oomes which are now void by their failings, and the want of thoſe <hi>Wor<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ies,</hi> whom God hath (perhaps for our ſinnes) called out of this life ſince <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e <hi>Parliament</hi> began, would ſhortly neceſſitate the renewing of that num<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r of <hi>Knights</hi> and <hi>Burgeſſes,</hi> which compleats the <hi>Houſe</hi> of <hi>Commons.</hi> I <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>jectured alſo, that the more ſpeedy Summons would be ſent forth for <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eir election, becauſe the wiſdome of our <hi>Great-Councell</hi> failes not (I hope) <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> conſider, how caſuall their pretious lives are who now ſuſtaine the heavy <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>then of publike affaires; how intollerable it might prove, if the preſent <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>pporters</hi> thereof ſhould be much more diminiſhed; how poſſible it is that, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> me time or other, advantages may be taken by the paucity of the number, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>indammage the <hi>Publike,</hi> by thoſe who wait for ſuch opportunities; and,
+<pb n="2" facs="tcp:154848:2"/>how many accidents may ſuddenly happen, to diſturb that means of a free election, which is now cleare in many parts of this Kingdome.</p>
+            <p>Therefore being woefully experienced, in the manifold miſeries, wherein<g ref="char:EOLhyphen"/>to this <hi>Nation</hi> is plunged, by the corruption, and inſufficiencie, of Perſons heretofore choſen (or preſumptuouſly intruding upon that <hi>High-Calling;</hi>) and perceiving no publike meanes provided for prevention of the like miſ<g ref="char:EOLhyphen"/>chiefe hereafter, nor any man privately contributing his advice, toward the regulating of thoſe <hi>Elections,</hi> from whence our preſent calamities have ſprung; and wherupon the remedie both of preſent, and future miſchiefs, may depend: I have, upon theſe, and the like conſiderations, haſtned to ſend a<g ref="char:EOLhyphen"/>broad among you my humble <hi>Letters</hi> of <hi>Advice:</hi> Not, a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> one arrogating a ſufficience fully to direct or adviſe in all things pertinent to the due choice of your <hi>Knights</hi> and <hi>Burgeſſes;</hi> but rather as one (ſenſible of the common danger) offering his weake indeavours to be a meanes of ſtirring up, and pro<g ref="char:EOLhyphen"/>voking others, of more ſufficiencie, to take timely notice of his intention; and to imploy their better judgements, in perfecting theſe good purpoſes toward the procurement of a prudent managing, and execution of your <hi>Ele<g ref="char:EOLhyphen"/>ctions.</hi> And, I deſire, for your own ſakes that, my good meaning may not bee utterly deſpiſed, or made void.</p>
+            <p>For, I addreſſe not theſe lines, for ſuch private and corrupt ends, as thoſe for which you heretofore received many letters from Lords, and La<g ref="char:EOLhyphen"/>dies, to ſhuffle into your <hi>Elections,</hi> thoſe of their <hi>Court-Cards,</hi> or of the <hi>vul<g ref="char:EOLhyphen"/>gar pack</hi> which might be moſt ſerviceable to their own deſignes; but, honeſt<g ref="char:EOLhyphen"/>ly to diſcharge that duty, whereto I am obliged both by our Nationall Cove<g ref="char:EOLhyphen"/>nant, and my perſonall affection to the <hi>common-good;</hi> and, ſo, to prepare before the dayes of Election, thoſe of inferiour rank, and meaneſt capacities to whom the free choice, of <hi>Knights,</hi> and <hi>Burgeſſes,</hi> appertaines, by preſen<g ref="char:EOLhyphen"/>ting unto them needfull Cautions, and Conſiderations, that they might there<g ref="char:EOLunhyphen"/>by (if poſſible) bee rendred more capable, and more conſcionable <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their Duties, to their Countrey and themſelves in that point; and become willing to be inſtructed, how much it concernes their own, and the Public Intereſt and Safety, to be well adviſed, and heed full in the ſaid Elections And, to that end, I beſeech you, to whom theſe <hi>Miſſives</hi> do come, (and among whom, better <hi>Oratorie</hi> is wanting) that their words, or contents may, in private, or at your Conventions in publike, be ſo ſignified to tho<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> illiterate perſons, whoſe Voices are, uſually, given by an implicit Faith; th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> they may more diſcreetly conferre them, for the time to come,</p>
+            <lg>
+               <pb n="3" facs="tcp:154848:2"/>
+               <l>Leſt, by that courſe, which theſe were wont to run,</l>
+               <l>Both good and bad, together be undone.</l>
+            </lg>
+            <p>That my <hi>Advice</hi> intended, may be the more willingly entertained, I will firſt make bold to remember you of thoſe miſchiefs and inconviences, which are obſerved to be the fruits of inconſiderate Elections; and, how traiterous you are unto your ſelves and Countrey, therein. I will next preſent you with a briefe Character, or Qualification, both of thoſe whom you ought to reject, and of thoſe, who are fit to be elected for your <hi>Knights</hi> and <hi>Burgeſſes,</hi> in Parliament. And, laſtly, I will offer to your conſiderati<g ref="char:EOLhyphen"/>on, that, which I conceive to be the beſt meanes for preventing partiality in choice; and ſo, conſequently, for repleniſhing the Houſe of <hi>Commons</hi> with ſuch Members, as ſhall be likely (by Gods bleſſing) to become Inſtruments of removing our preſent miſchiefs, and of eſtabliſhing a happy Peace among us for the future; if we be not grown ſo corrupt a Body, that, we will not be repreſented, by good and diſcreet men; which, it ſeemes, was, formerly, our fault, and made us chooſe a Repreſentative Body, in corruptions and failings, like unto our ſelves.</p>
+            <lg>
+               <l>The <hi>Butterflies</hi> produce not <hi>Bees;</hi>
+               </l>
+               <l>
+                  <hi>Good-fruits</hi> grow not on <hi>evill-trees.</hi>
+               </l>
+            </lg>
+            <p>I will, as I ſaid, only remember you (for, things apparent need no proofe) into how many plagues and miſeries this Common-wealth is plunged, by the rottenneſſe and giddineſſe, of ſome, formerly choſen to be Members of the Repreſentative Body of our Commonaltie: and how perfidiouſly they have betraied their truſt, to their perpetuall infamie, and to the indangering of our everlaſting ſlaverie both to <hi>Tyrannie</hi> and <hi>Poperie;</hi> which joint-bondage would have been nothing leſſe accurſed, then that of <hi>Egypt,</hi> whether conſi<g ref="char:EOLhyphen"/>dered as a temporall, or ſpirituall ſervitude: and, God onely knowes, how long it will yet be, ere theſe Iſlands ſhall be totally delivered from the dan<g ref="char:EOLhyphen"/>gers, whereinto thoſe Traitors have formerly brought them. Thus miſerable are they able to make us, on whom we conferre a Parliamentarie truſt, if they be not wife, and conſcionable men; for, we give them power, not onely to make us Slaves, Beggers, and liable to the Hangman at their pleaſure; but, to ſubmit us, alſo, to thoſe Decrees which may, <hi>gradatim,</hi> bring our Poſte<g ref="char:EOLhyphen"/>ritie to be Turks, Pagans, and Vaſſals to the Devill; which, if you believe not poſſible, (becauſe not yet come to paſſe) believe, at leaſt, that which you ſee, of the condition and practice, of them whom you have unworthily and unwarrantably elected; and conſider, what may be further poſſible, by their bringing ſo farre back upon us (as they have lately done) thoſe Antichriſtian ſlaveries which we thought paſt feare of reviving.</p>
+            <p>
+               <pb n="4" facs="tcp:154848:3"/>
+But, perhaps, miſchiefs and inconveniences of leſſe concernment, will ſt<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> up ſome to be more cautious in their Elections, then theſe; let ſuch therfore take notice, that, by heedleſneſſe in this dutie, they ſhall make Tyrants and Fooles, Lords over them, who will fawne and court them, till they are ele<g ref="char:EOLhyphen"/>cted, and then, ſcorne and trample them under feet, putting ſuch an im<g ref="char:EOLhyphen"/>meaſurable diſtance, betwixt themſelves and others, of that Body whom they repreſent, and out of which they were choſen, as if they had forgot<g ref="char:EOLhyphen"/>ten what they were; and that the reſpect due to a whole Committee, at leaſt, if not to the whole Houſe of Commons, were due to their ſingle Votes, and Perſons: yea, ſome of their deportments ſhall be ſuch, as if it were <hi>Cri<g ref="char:EOLhyphen"/>men laeſae Majeſtatis,</hi> to ſpeak to them, or of them, or in their preſence, but as they pleaſe to permit: and they will ſo take upon them, and ſo demean<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> themſelves likewiſe, as if to favour their Clients, to ſuppreſſe thoſe who<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> they diſaffect, to ſtrengthen their Faction, to further their private deſignes, to ſecure their owne eſtates, and to defend their perſonall Priviledges (though to the utter ruine of all publike Liberties and true Pietie) were the chief end of their Calling. And what good can be had, or what benefit can be look for, from ſuch a choice? Or what better choice can be made; unleſſe you ſeri<g ref="char:EOLhyphen"/>ouſly, prudently, and conſcionably mannage your Elections?</p>
+            <lg>
+               <l>When Wolves are by the Flock for Guardians choſe,</l>
+               <l>Who marvailes if their skins, and lives they loſe.</l>
+            </lg>
+            <p>The only means to be delivered from ſuch miſchiefs, is, by humbly ſuppli<g ref="char:EOLhyphen"/>cating the divine Mercy; by truly repenting our ſins; and by taking mo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> heed hereafter (then we have done heretofore) that we be not traitors to our ſelves, in fooliſhly giving up the diſpoſure of our eſtates, lives, liberties and conſciences to them who will ſell us for old ſhoes, and ſerve us, onely to ſerve their owne turnes to our deſtruction: Therefore, I beſeech yout<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be warie, whom you ſhall now, or hereafter, elect; and make us not irreco<g ref="char:EOLhyphen"/>verably unhappy, by liſtening to the inſinuations of unworthy perſons, wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> will importune you, by themſelves, or others, to put our Bodies and Sou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e into their hands; complying with all ſhewes of curteſie and humility, til<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their purpoſes are obtained; and never afterward regard your Perſons, you<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Cauſe, your Miſeries, or your Petitions: but, over-look you with ſuch pride and deſpight, as if they had neither received their power from you, nor fo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> your welfare; but meerly to exalt their owne vanitie: or, as if every one of them had in his ſingle capacitie, conferred on him by his Election, ſuch a meaſure of all Virtues and Sciences; and received ſuch an extraction out of the Body repreſented, that none of his Electors had left in himſelf, either wiſ<g ref="char:EOLhyphen"/>dome,
+<pb n="5" facs="tcp:154848:3"/>honeſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ie, or pietie, in compariſon of his; though but the day before his Election, all the good you heard or knew of him, amounted perhaps to no more, but that he was a good Huntſman, a good Faulkner, a good Gameſter, or a Good-fellow; who, having a good eſtate in his Countrey, where he was <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hoſen, a good opinion of himſelfe, and a good mind to be a Law-maker, was <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lected by his neighbours, who had rather adventure the undoing of them<g ref="char:EOLhyphen"/>ſelves, their poſteritie and the whole Kingdome; then hazzard his frowne, or <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Lords, or Ladies diſpleaſure who ſollicited for him: Which follie that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on may now ſhun, both for the remedie of preſent evils, and for the better <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtabliſhing our juſt Priviledges, with the common ſafetie; let your care be <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o avoid the choice of ſuch as theſe.</p>
+            <p n="1">1 <hi>Men over-laviſh in ſpeaking,</hi> or in taking extraordinarie pleaſure to hear <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hemſelves talk: for, a man full of words is neither good to give, or keep <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ounſell.</p>
+            <p n="2">2 <hi>Notorious Gameſters;</hi> for, though I have known ſome of them wittie; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> never found a prudent, or juſt man among them. For, how can he be juſt, whoſe daylie practice is to cheat others of their eſtates? Or, how can they <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ave prudence becoming diſpoſers of the publike Treaſure, who are ſo fooliſh, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s needleſſely to expoſe their certaine eſtates to the uncertain hazzards of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hance?</p>
+            <p n="3">3 <hi>Men extremely addicted to Hunting or Hawking:</hi> For, moſt of theſe, ſo <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey may preſerve and increaſe their Game and inlarge priviledges for their <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wne pleaſure, much care not though it were to the depopulation and impo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eriſhing of whole Countries, and to the multiplying of thoſe wild beaſts, which are one of the curſes threatned for ſinne.</p>
+            <p n="4">4 <hi>The houſhold ſervants,</hi> or, <hi>ſuch as are the obliged dependents on Peers of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Realme</hi> except they be of known and approved integritie. For, though <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome <hi>Lords</hi> have honourably perſiſted faithfull to the Re-publike, both now <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd in all times of Triall; yet, the greateſt part prefer their <hi>will</hi> and <hi>pleaſure</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>efore the juſt liberties and priviledges of the Commons; yea, ſometimes <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>efore the ſafety of the whole Kingdome and the purity of Gods worſhip: And ſuch Noblemen wil upon all advantages, expect from their Creatures, the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>romotion of their own deſignes and intereſts, how repugnant ſoever to the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enerall-Good.</p>
+            <p n="5">5 <hi>Courtiers, depending meerly on the King's or Queens favour;</hi> For, the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>largement and continuance of their fortunes depend on the <hi>Prerogative:</hi> And, the more that may be improved to the depreſſion of the Subject, the ri<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her and the greater theſe grow.</p>
+            <p n="6">
+               <pb n="6" facs="tcp:154848:4"/>
+6 Chuſe not ſuch as are evidently <hi>ambitious or covetous;</hi> for, how pro<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> theſe will be to ſell their Country and their Religion too, for titularie ho<g ref="char:EOLhyphen"/>nours or rewards, we have had too much experience of late yeares.</p>
+            <lg>
+               <l>The Peoples truſt, or Kingdome, to betray,</l>
+               <l>To be a Lord, is now the neareſt way.</l>
+            </lg>
+            <p n="7">7 <hi>Men inſlaved to Wantonneſſe,</hi> and, with open impudence perſevering <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that ſinne: For, ſuch are a diſhonour to that <hi>high-calling,</hi> and will not on<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> give a way their eſtates and liberties, to fulfill their luſts, but betray alſo the<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> owne Lives, their Country, and their Saviour, to pleaſe their <hi>Dalilahs.</hi>
+            </p>
+            <p n="8">8 Take heed of chooſing thoſe, who are <hi>Superlatively proud:</hi> for, the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> will be ſo puſt up with their Legiſtatorſhips, that after they have ſate while in the Houſe, they will be apt to forget they are a part of the Co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>monalty, and be ſo elevated, that we ſhall hardly know how to ſpeake <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> make addreſſes or complaints to them without danger of being queſtion<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for breach of good manners, or infringing their perſonall priviledges, whi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> uſually they prefer before the Priviledges of the whole Commonwealth.</p>
+            <p n="9">9 Chuſe not <hi>men immoderately adicted to popularity,</hi> for thoſe have ſo m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ny to pleaſure, protect, prefer, or comply withall; that their wit, leiſu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and abilities will be wholly taken up in the proſecution of private accom<g ref="char:EOLhyphen"/>modations and conveniences for their Clyents, who ſhall not onely be ſerv<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> before the publike, but to the detriment thereof alſo, rather then faile.</p>
+            <p n="10">10 Chuſe not men reputed of a <hi>Vicious converſation</hi> in any kind: for, ſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> will be ſecret oppoſers of all Lawes or Ordinances reſtraining Enormities and conſtant hinderers of bringing Delinquents to condigne puniſhment.</p>
+            <p n="11">11 Make not choice of men <hi>Irreligious,</hi> or <hi>inclined either to antiquate Superſtitions, or moderne Novelties:</hi> for, the firſt will neither further ne<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> full Reformation, nor be carefull of preſerving Orthodox Diſcipline <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Doctrine from violation; nor much regard, ſo their temporall poſſeſſions m<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> be exempt from payments, and their perſons from labour and danger, wh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> hapneth to the diſhonour of God, or to the ſafetie or perdition of Soule<g ref="char:punc">▪</g> And, the later will advance nothing but what tends to the eſtabliſhment <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his Fancies.</p>
+            <lg>
+               <l>For, how can he advance true Reformation,</l>
+               <l>Who neither hath right Rules nor firm Foundation?</l>
+            </lg>
+            <p n="12">12 Elect not thoſe <hi>Male-contents,</hi> who are obſerved by diſcourſe or pr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ctiſe, to be enemies to the whole frame and conſtitution of our Government for, theſe will prove ill-Counſellers; and rather deſtructive then helpefull, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> repairing and curing the ruines and deſtractions of theſe Times.</p>
+            <p n="13">
+               <pb n="7" facs="tcp:154848:4"/>
+13 Make not choice of <hi>Children under age:</hi> for, to me it ſeemeth not onely <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nneceſſarie, but ridiculous alſo, to commit the managing of the moſt weigh<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y aff<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ires of the Common-wealth to thoſe who are not by our Lawes capa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of governing or diſpoſing their private eſtates: Eſpecially; ſeeing the ma<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or part of <hi>Voices,</hi> which the vote of an ignorant child makes up, may con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rme a Reſolution to the publike dammage.</p>
+            <p n="14">14 Permit none of thoſe to be Elected, who have heretofore procured, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> cuted, or countenanced oppreſſing <hi>Monopolies,</hi> or beene active in extort<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>g <hi>Shipmony, Coat and Conduct-mony,</hi> or in any illegall exactions injurious <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the Rights and Priviledges of the <hi>Commons:</hi> For, though ſome of theſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay, now perhaps, be better Patriots and other wayes affected: yet, if there be <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>thers untainted. not unworthy of your choice; good reaſon it is that they <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hould be preferred before theſe.</p>
+            <p n="15">15 Chuſe not men who, knowingly, ſtand <hi>Out-lawed,</hi> or ſo far indebted <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat they dare not walk: abroad without protections, except in ſuch caſes as <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay in equitie be allowable; for what can be more abſurd or unjuſt, then that <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ey ſhould ſit as <hi>Law-makers,</hi> who ſubject not themſelves unto the Lawes <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>force? and what can be more unreaſonable, then to make the Fountaine of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſtice to be an obſtruction to her owne due proceedings, to the ſcand l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat High Court which ought (as much as poſſible) to be compoſed of ſuch <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>embers as are every way without exception? I hope the Land is not yet <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> full of beggers and bankerupts, that there may not be 400. men found in it, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ly qualified for this ſervice, without ſtraining a priviledge in this kind.</p>
+            <p n="16">16 Laſtly, avoid in your Elections, the choice of thoſe <hi>who make meanes to <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ve themſelves choſen:</hi> For, in my opinion, it diſcovereth in them ſo much <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rrogance and ſelfe-conceit, that they are worthy to be rejected; though the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſtome of the times made it heretofore ſeem no infringment of modeſtie and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ought many diſcreet and honeſt men <hi>Inſanire cum vulgo,</hi> to be over-ſeen or company. Doubtleſſe, the cauſe of moſt or thoſe evills which are fallen <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>on theſe Iſlands, have been occaſioned by ſome of theſe Intruders. The <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſe-hood, pride, co vetuouſneſſe, hypocriſie, apoſtacie, cowardice, ignorance, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>artialitie, Athieſme, ſenſualitie, ſelfe-love and ſelfe-conceit of ſome of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eſe, hath diſtracted, divided, impoveri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hed, and almoſt undone us at this pre<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ent; and, the totall accompliſhment thereof will follow, unleſſe God ſhall <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ve you grace to be conſcionably carefull in your choice of the Knights and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urgeſſes to be ſupplied: and cauſe thoſe to purge themſelves by repentance (if <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y ſuch remaine in the Houſe of Commons) who have intruded as aforeſaid, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> beene heretofore inconſiderately and unworthily elected by others: For,
+<pb n="8" facs="tcp:154848:5"/>the chiefe Deliverers of Gods people in diſtreſſe, and their ableſt Captai<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and Governours, were they who modeſtly ſought to put off, rather then ar<g ref="char:EOLhyphen"/>rogantly to intrude upon, ſuch places: And, it may be obſerved, that <hi>Saul</hi> w<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> fitter to Raigne when they found him hidden among the ſtuffe, then when <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> tooke care to be honoured before the people.</p>
+            <lg>
+               <l>The curſed Bramble ſtrove not to be choſe</l>
+               <l>The <hi>Forreſt-King<g ref="char:punc">▪</g>
+                  </hi> till ſome did him propoſe.</l>
+            </lg>
+            <p>Theſe are they, the choice of whom, I ſhall humby adviſe you to avoi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in your Elections, as much as poſſible you can: Yet, let your proceeding <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> with ſuch diſcretion, that you neither expect men abſolutely free from <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> imperfections (leaſt you be compelled to ſeek them in another world) no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> examine every mans failings, with ſuch ſeveritie, as may ſcandalize ho<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> and deſerving men: For, the beſt are ſomtime traduced, and evill ſpoken o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by Malignants and wicked perſons, without cauſe: which may eaſily be diſ<g ref="char:EOLhyphen"/>covered, by diligently examining who they are that ſpeake evill of ſuch And, upon what grounds they traduce them: Or, by a prudent and charitab<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> examination of teſtimonialls given on their behalfes, who are traduced.</p>
+            <p>Now, in counſelling to make choice of ſuch as may be beſt confided <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> I ſhall be verie brief; becauſe, by the foregoing Cautions touching their quali<g ref="char:EOLhyphen"/>fications whom you are to paſſe by, directions are tacitly given, to inform<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> what manner of men they ought to be, who ſhould have Nomination in you<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Elections: To wit, Men whom you know, or believe (by their teſtimon<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> whoſe fidelitie you ſuſpect not) to bee of upright converſations, unrepro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>able (as far as humane frailtie will permit) prudent, ſtout, impartiall, ſober<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> well-experienced, Lovers of their Countrey, grave, meek, humble, religious and rather eminent for their vertues and abilities, then for their wealth, birth or titles: And, yet not ſo poore or meane, as to make their perſons liable t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> contempt, or in danger to be expoſed to a temptation through extreame ne<g ref="char:EOLhyphen"/>ceſſities. Of theſe qualifications being aſſured, or at leaſt well perſwaded by good information (and not wilfully deceiving your ſelves, or negligently permitting others to deceive you) proceed cheerfully to an Orderly Ele<g ref="char:EOLhyphen"/>ction; and commit the event to God, without diſtruſt of his bleſſing therein that his mercifull providence may ſupplie that, wherein your weakneſſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> improvidence may faile: and queſtionleſſe, a good event will follow.</p>
+            <lg>
+               <l>For, when our wayes we prudently diſpoſe,</l>
+               <l>God crownes our hopes, or better things beſtowes.</l>
+            </lg>
+            <p>But, you will ſay, perhaps, evill cuſtomes have ſo diſordered your Ele<g ref="char:EOLhyphen"/>ctions, that though you have conſidered the danger of making Choice <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="9" facs="tcp:154848:5"/>Randome; or, according to their perſwaſions, who abuſed your credulitie and ſimplicitie heretofore: and, though you are alſo truly deſirous to regulate your choice according to good Adviſe: yet, ſo much is aſcribed to Cuſtome (though evill) And, the corruption and cunning of thoſe who are moſt pow<g ref="char:EOLhyphen"/>erfull in managing thoſe Elections may be ſuch, that the well-affected ſhall be over-borne; or thoſe contrivances perhaps practiſed, whereby your Votes may be nevertheleſſe transferred to a wrong Partie; as it hath often happened <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n times paſt.</p>
+            <p>To prevent this, I will offer to conſideration, what I have conceived may be helpfull againſt ſuch fraud or falſhood; and conducing to the regulating of your Elections for the time to come: And (though the wiſdome of this generation may, perhaps, deride it) I ſhall not repent the propoſall thereof: becauſe I am aſſured it will availe to the publike ſecurity, and ſhall be both entertained with approbation, and practiſed with good effects, when the time cometh in which this Kingdome muſt be reſtored to that happineſſe, which we have loſt; and ſhal be made bleſſed, by that Reformation which we deſire. My Propoſitions are theſe.</p>
+            <p n="1">1 That at your conventions of the Freeholders or Burgers, to elect Knights of the Shire, or Burgeſſes, no mans preſence may be admitted of, but his who is intereſted in your Elections: For, they who intermeddle imper<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inently, in other mens matters, do very ſeldome buſie themſelves to an ho<g ref="char:EOLhyphen"/>neſt purpoſe.</p>
+            <p n="2">2 That no man be permitted at ſuch meetings, (before or after choiſe made) to provide banquets, or make coſtly preparations, for their entertain<g ref="char:EOLhyphen"/>ment, by whom they are choſen: for, it is a kind of embracing his choſers; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd to me it ſeems an unproper Complement (if nothing were corruptly in<g ref="char:EOLhyphen"/>tended) that he who confers the benefit, ſhould be at the charge of giving Thanks; for, he that is Elected undertakes the ſervice for his Electers.</p>
+            <p n="3">3 That either at, or before the times of meeting about your Elections, you confer together, and take care, throughly to informe your ſelves, what perſons you know, or by common Fame, conceive to be fitteſt, to ſerve the Republike, for your ſeverall Counties or Burroughs, according to the di<g ref="char:EOLhyphen"/>rections afore-expreſſed; and that you then give in the names of ſo many as are conceived, and agreed upon, by a conſiderable number of voices, worthy to be preſented (be they more or leſſe) rejecting none, who ſhall be ſo brought in. And if two are to be choſen, let foure of them, and if one, let two, which have the moſt voices, make triall by Lot, to whether of them God will be pleaſed to diſpoſe the place, or places, to be ſupplied: ſo, both
+<pb n="10" facs="tcp:154848:6"/>God and man, concurring in their Elections, much corruption thereby will be prevented: and, where mans judgment faileth to make a right Election, Gods providence (if he hath any pleaſure in us) will correct your errours; and if he hath decreed our deſtruction, what will it the more, or leſſe, pro<g ref="char:EOLhyphen"/>fit us, that we chuſe our own Deſtroyers, by that meanes?</p>
+            <p>This determination of Election by Lots, though it may now ſeem new, was warrantably practiſed by the lews, in the election of their firſt King, as appeares, 1 <hi>Sam.</hi> 10.20. For, the Tribe of <hi>Benjamin</hi> was choſen, and <hi>Saul,</hi> out of that Tribe, by Lot, before the Kingdom was eſtabliſhed upon him. The like courſe was taken, to ſupply the room of <hi>Judas,</hi> the apoſtate Apoſtle (eve<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in thoſe Primitive times, wherein the Gift of diſcerning Spirits, was confer<g ref="char:EOLhyphen"/>red, in greateſt meaſure:) and after the Congregation of Believers had choſen out from among the Diſciples thoſe two, whom (according to out ward ap<g ref="char:EOLhyphen"/>pearance) they judged fitteſt for the Apoſtleſhip, <hi>Matthias</hi> was elected by lot, out of thoſe two; perhaps, to be a patterne to ſucceeding times, in wha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> manner they might beſt make choice of Officers, for prevention of a parti<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> election. And doubtleſſe, this way, of electing by lot, was, in after-ages, pur<g ref="char:EOLhyphen"/>poſely diſallowed, omitted, and changed, as ſuperſtitious, by the fraud and corruption, of thoſe Prieſts and Prelates, who perceived, that, if ſuch practice ſhould be approved and perſiſted in, as warrantable; it would ne<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ther be eaſie, nor poſſible for them, to keepe the diſpoſure of Dignities, an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Preferments, in their own power, for the advantage of themſelves, and thei<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Favourites; by which they had wanted the chief pillar in their Antichriſtia<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſtructure. This, other Politicians obſerving, the Civill Magiſtate, in moſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> States, learned their ſubtilty, and have followed, ever ſince, their example in vilifying or neglecting lots; and in electing of temporall Officers, accord<g ref="char:EOLhyphen"/>ing to ſuch means, or Votes, as may bring in whom they pleaſe, and effect that which will be moſt advantagious to their particular ends. Which no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> profitable policie being diſcovered, if now elections by lot, were againe revi<g ref="char:EOLhyphen"/>ved, and practiſed in the choice both of Eccleſiaſticall, and Temporall Offi<g ref="char:EOLhyphen"/>cers, it might be a meanes to reſtore honeſty and piety to their primitive be<g ref="char:EOLhyphen"/>ing, in Church and Common-wealth; where Officers have hither to been ar<g ref="char:EOLhyphen"/>bitrarily choſen, by their corrupt Superiours, and Patrons, for private ends</p>
+            <p>Take this Overture into your conſideration, as you ſee cauſe (for, I pred<g ref="char:EOLhyphen"/>it no further) and therewithall, if you like the motion, take heed that your boſe not lots, to determine what is already determined, or determinable by the Word of God, by poſitive humane Lawes, or by common reaſon; and, beware alſo that ye make not God an Vmpire in triviall and indifferers
+<pb n="11" facs="tcp:154848:6"/>things, which are at your own free choice: for, that were a ſinfull temptation of God, and a profanation of that Ordinance, which, being conſiderably and rightly uſed, may be a means of much good, and of preventing much evill. For, if the <hi>Kings Majeſty, Supreme Magiſtrates, Officers of State, Pa<g ref="char:EOLhyphen"/>trons of Church-Livings,</hi> and other who claime the diſpoſure of the pro<g ref="char:EOLhyphen"/>fits and executions of all places in Church and Common-wealth, could poſ<g ref="char:EOLhyphen"/>ſibly be perſwaded to reſigne to the Church, and to their Countrey reſpe<g ref="char:EOLhyphen"/>ctively (and unto whom by moſt ancient right they appertaine) a free electi<g ref="char:EOLhyphen"/>on or nomination of Officers to all publike places; referring all ſuch particular elections to thoſe unto whom, by calling, they moſt properly belong; doubtles honeſt and experienced men would be ſtill preferred. Yea, ſhould we refer to the Votes of both <hi>Houſes of Parliament</hi> (when they ſit) or to the Votes of the <hi>Privy Counſell,</hi> they not ſitting, the nomination of all <hi>Officers of State,</hi> whoſe places are void? To the <hi>Sergeants at Law,</hi> the voting of <hi>Judges, Chiefe-Juſtices,</hi> and ſuch like Officers: To the <hi>Benchers</hi> of the Innes of Court, the voting of <hi>Sergeants:</hi> To <hi>Clerkes</hi> of the Chancerie, and of other Courts, the voting of their chiefe Officers: To <hi>Freeholders</hi> and <hi>Burgers,</hi> the voting of Knights and Burgeſſes, according to their lawfull cuſtomes: To the <hi>Vniverſities,</hi> being firſt purged, the voting of ſending forth able Perſons for the Miniſterie, when Church-livings are void: To the <hi>Miniſters</hi> within a certain limit, wherein Livings of greateſt value are vacant, the vo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing of removing thither ſuch perſons from inferiour Cures, who are moſt e<g ref="char:EOLhyphen"/>minently deſerving in the Church: And ſo proceed in all other nominations or elections <hi>conſiderat is conſiderandis;</hi> and then let the finall determination of the ſaid elections and nominations be concluded, as it ſhall pleaſe Gods pro<g ref="char:EOLhyphen"/>vidence to diſpoſe of them by <hi>Lot;</hi> It ſeemes very probable that, by this means the <hi>Reformation</hi> we deſire would be much facilitated, yea halfe effe<g ref="char:EOLhyphen"/>cted; and that moſt of the corruptions now complained of both in the Church and Commonwealth, would be beaten down at one blow. For, if this courſe might be taken, there would be no admiſſion of ignorant and Symoniacall <hi>Pastors;</hi> there would not be ſo eaſie an entrance for <hi>bribing-Magiſtrates,</hi> or other corrupt <hi>Officers; Men</hi> would neither ſo glory or truſt in <hi>Riches,</hi> as they do; becauſe their traſh would be able to purchaſe nothing but things of it own value: <hi>Honeſty, Knowledge, Piety,</hi> and other <hi>Virtues,</hi> would be more accounted of, more ſtudied, and more practiſed; as moſt con<g ref="char:EOLhyphen"/>ducible to our <hi>well-being</hi> here, and to our happineſſe hereafter: and men vi<g ref="char:EOLhyphen"/>ciouſly inclined, or unprofitably ſpending their times, would by degrees be<g ref="char:EOLhyphen"/>come more conſcionable, or more aſhamed of their courſes.</p>
+            <p>
+               <pb n="12" facs="tcp:154848:7"/>
+Perhaps <hi>good</hi> and <hi>diſcrect men</hi> may, at firſt hearing, ſtumble at this: but, ſure I am, <hi>incurable Fooles,</hi> and <hi>incorrigible Knaves,</hi> will be mad at the motion, and never condeſcend therunto. For, if they ſhould put their pre<g ref="char:EOLhyphen"/>ferments to God and their Country, they would have little hope of advance<g ref="char:EOLhyphen"/>ment: And therefore I neither expect their Vote in this <hi>Matter,</hi> nor their ap<g ref="char:EOLhyphen"/>probation of this <hi>Letter,</hi> for being an Inſtrument to offer unto conſideration: Propoſition ſo miſchievous to their conſtitution. Howſoever, the Overturn is now made, and tendred in publike; <hi>Valent ut valere poteſt.</hi> Perhaps it comes forth in a good ſeaſon: if not, God hath another time for it, where<g ref="char:EOLhyphen"/>to I referre it, and the effects thereof to his good pleaſure.</p>
+            <p>I will now conclude theſe my Letters of Adviſe, with that which muſt be the beginning of your Elections; even with a heart lifted up in prayer to God the Father, for a bleſſing on your endeavours; and, with an earneſt de<g ref="char:EOLhyphen"/>ſire, that you may make choice of ſuch men, as may be fitly qualified with naturall abilities, for the well diſcharging of that truſt which you repoſe in them; and, by the grace of our Lord Jeſus Chriſt, and the ſanctification of his holy Spirit, be ſo furniſhed, and ſo ſeparated, for the work which they ſhall be called unto; that they may be a means of bringing peace againe into our Borders, even that Peace which paſſeth all underſtanding; and which ſhall prevaile, to the eſtabliſhing of Truth, and to the introduction of that Kingdome, for which we patiently attend. <hi>Amen.</hi>
+            </p>
+            <div type="postscript">
+               <head>The Poſtſcript.</head>
+               <p>AS I was about to make up theſe LETTERS, I remembred (by what I have obſerved, and by ſuch complaints as I have heard) how poſſible it is, through the great hypocriſie now raigning, that, when your beſt indeavours have been uſed in theſe Elections, many Members may nevertheleſſe be choſen, whoſe performances of their duties will be wilfully unanſwerable to your juſt expectations; (eſpecially when by a long <hi>Seſſion,</hi> or <hi>Parliament,</hi> the worſt affected ſhall finde meanes how they may ſe urely know and ſerve each other, by ſecret compliances, for their private advantages, to the publike dammage; or by conceiving themſelves ſo inveſted with an irrevocable Truſt, that they are above controule?) And, when I called, like wiſe, to mande, how many (ſince this <hi>Parliament</hi> began) ſeeming excellent <hi>Patriots</hi> at the firſt, have after turned Faces about, for want or right affections, and good <hi>Principles,</hi> to the great griefe and amazement of their honeſt Friends; And how many accounted wiſe, upright, ſtout and religious (yea, and ſome
+<pb n="13" facs="tcp:154848:7"/>after they had been deeply ingaged, both by acting, and ſuffering for the beſt Cauſe) have afterward, through ſottiſh folly, feare, deluſion, or diſhoneſtie, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>aggered, and fallen totally from their firſt and juſt Reſolutions; I thought <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſitting upon theſe: conſiderations, to add, by way of <hi>Poſtſcript,</hi> a line or waine touching your duties after choice made, for the better prevention of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat generall deſtruction of our Liberties, which is threatned, by the ſpreading <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f that peſtilent <hi>Gangrieve.</hi> And my Adviſe to ſuch purpoſe is briefly this.</p>
+               <p>When you have elected ſuch as you conceive well qualified for the publike <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ervice, you muſt aſwell endeavour to keep them, as to chuſe them ſuch, by <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aving alwaies a watchfull-eye over their demeanours, both in their private, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd publike duties, and actions, ſo far forth as in civilitie, and without inju<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ie, they can be pried into. To that end, you muſt obſerve their Aſſociates, with whom they moſt converſe; you muſt obſerve to whom they are moſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inde; of whoſe affaires they are moſt zealous; in whoſe defence they often<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt and moſt readily appeare, to whom they have heareſt Relations, of ſtrict<g ref="char:EOLhyphen"/>ſt obligements: you muſt obſerve likewiſe, what Fame reports of their af<g ref="char:EOLhyphen"/>fection or diſaffection, to thoſe Courſes or Propoſitions which concerne the <hi>Commonalty;</hi> leaſt you looſe a <hi>Truſtee</hi> before you be aware. Moreover, you <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſt take notice of their diligence, prudence, faithfulneſſe, or ſtoutneſſe in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>our Service, to cheriſh it by due thankfulneſſe and acknowledgements; and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f their apparent negligence or failings; that if they be not unpardonably de<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tructive, they might be awakned and lovingly admoniſhed, as there ſhall <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ecauſe, by diſcreet and reſpective expreſſes from the Body of your <hi>Coun<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ies</hi> or <hi>Corporations;</hi> by whom they were choſen: remembring them lovingly (if they forget it) that though they are above you, being joyned to our whole <hi>Repreſentative-Bodie;</hi> yet (being conſidered apart in their ſingle capacities) they are ſervants and inferiours to their reſpective Counties and Burroughs; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd that, by them, they may be called to account, for every omiſſion or com<g ref="char:EOLhyphen"/>miſſion worthie queſtioning; either before the preſent <hi>Parliament</hi> whereof they are Members, or before the next that ſhall be ſummoned: And doubt<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſſe, that <hi>High-Court</hi> will commend and thanke you for ſo doing.</p>
+               <p>This is your priviledge by the ſupreme Law, called <hi>Salus Populi,</hi> which <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s the moſt ancient, and moſt undeniable Charter, yea the ſumme of all the Charters in the world, tending to the preſervation of humane Society: and whoſoever goes about to take from you the benefit of this Law, is not onely <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Traitor in the higheſt degree; but (againſt him ſo endeavouring) doth make <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lſo every thing, without exception, to be lawfull, which is neceſſarie to the eſtabliſhment and preſervation thereof. By this <hi>Law</hi> the <hi>Parliament</hi> hum<g ref="char:EOLhyphen"/>bly
+<pb n="14" facs="tcp:154848:8"/>requires of the <hi>King,</hi> that which pertains to it owne and our ſafety, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the preſervation of thoſe Priviledges which are eſſentiall thereto; and, b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the ſame <hi>Law</hi> you may freely petition for, and boldly claime from all <hi>Parlia<g ref="char:EOLhyphen"/>ments,</hi> whatſoever is neceſſary for the generall ſafety; and from this <hi>Par<g ref="char:EOLhyphen"/>liament</hi> in particular, without feare of deniall: For, I can witneſſe their in<g ref="char:EOLunhyphen"/>couragement hereunto, by their cheerfully accepting of, and by their open re<g ref="char:EOLunhyphen"/>turn of thanks for Petitions in that kind.</p>
+               <p>Now therefore, to crown your Elections, and to ſecure your own ſafety if there be any of your <hi>Knights</hi> or <hi>Burgeſſes</hi> whom you know, or probabl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſuſpect to be unfaithfull in their <hi>Truſt,</hi> by holding intelligence with your <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>nemies; by doing his duty negligently, or not at all; by complying or pl<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ting with Malignants (as in the conſpiracies and apoſtacies of <hi>Waller, H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>tham,</hi> and ſuch like) by protecting, countenancing, or concealing dangerou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Delinquents; by cunningly obſtructing the courſe of <hi>Juſtice,</hi> or <hi>Propoſi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ons</hi> tending to the common welfare, or advance of Piety, and good manne<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> by diſtracting or dividing the Miniſters or Agents of Parliament in their ex<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>cution of their <hi>Ordinances;</hi> by diſcountenancing, oppoſing, or diſplacing thoſe from imployment in the publike ſervice, who have given eminen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> proofs of their uprightneſſe, fidelity, and good affection to their Countrey If, I ſay, any whom you have choſen, ſhall have by theſe, or by any ſuch li<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> courſes, juſtly cauſed jealouſies to ariſe; let (according to equity, and you<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> late Covenant) information be ſpeedily exhibited againſt them, with ſuch proofs and probabilities as you have thereof: that ſuch may be purged, or re<g ref="char:EOLunhyphen"/>moved, and others (if need be) elected in their ſteads; for the abating <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> your feares, and for the prevention of your detriments; either of which <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> conſiderable motives.</p>
+               <p>By this Courſe you ſhall make thoſe perhaps, who will grow over-bo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> with your <hi>Truſt,</hi> to act more honeſtly for feare, if not for Conſcience: An<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> every faithfull <hi>Knight</hi> and <hi>Burgeſſe</hi> in the Houſe will be both advantage<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and well pleaſed to have this band applied to keep their looſe companion<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> cloſer to their dutie; yea they will think themſelves the ſafer in their work when they perceive your eyes are open to watch for them, and to take care that they be not undermined and betrayed by thoſe whom you have ſent <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> among them. If the reſt be offended, you need not care; and for my part <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> do not; though I know they will be vext at my Advice, and do me what ſe<g ref="char:EOLhyphen"/>cret miſchiefe they can.</p>
+               <p>If you neglect this courſe, &amp; this care over-long; the <hi>Malignant Partie</hi> wi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> perhaps, be as prevalent in the <hi>Houſes of Parliament,</hi> as they have been in the
+<pb n="15" facs="tcp:154848:8"/>Kingdome: and, either peremptorily caſt forth your juſt Suits and Com<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>aints, or els make them miſcarrie, or be quite ſtifted, by Committees neg<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cting them; or els prepared and miſ-informed, to make them tedious, if not miſchievous, to the Petioners. Such things have been poſſible heretofore, and ſee no ſuch amendment among us, but that ſuch things may be as poſſible <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ereafter. Therefore, practice according to this Counſell, and do it quickly, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>efore it be too late; and yet better too late then never: For, if we muſt periſh, is more noble and more manlike, to ſink diſcharging our duties with cou<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ge; then to ſhrink from them, and fall ſneakingly, with fear.</p>
+               <lg>
+                  <l>Much more I have to ſay: but, <hi>Sin</hi> and <hi>Pride</hi>
+                  </l>
+                  <l>Yet, cannot well, the voice of Truth abide.</l>
+                  <l>So <hi>wicked,</hi> or ſo <hi>good,</hi> we are not growne,</l>
+                  <l>To heare that ſaid, which muſt, ere long, be knowne;</l>
+                  <l>Nor will <hi>ſelfe-love</hi> take warning, care or heed,</l>
+                  <l>(By what is <hi>part</hi>) to help what may ſucceed.</l>
+                  <l>Nor will I further urge it, till I ſee,</l>
+                  <l>My labours will to better purpoſe be.</l>
+               </lg>
+               <lg>
+                  <l>Malignant <hi>Falſhood,</hi> and <hi>Detraction,</hi> too,</l>
+                  <l>Have parts to play, and ſome black works to do</l>
+                  <l>Which muſt be done, and undone, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </l>
+                  <l>With profit, publiſh that which muſt befall:</l>
+                  <l>And, then (though nev'r ſo wiſe our <hi>Charmings</hi> are)</l>
+                  <l>The <hi>Scorners,</hi> and <hi>Deafe-Adders</hi> will not heare;</l>
+                  <l>But ſcoffe, and perſecute me, till their ſpite.</l>
+                  <l>Have ſcowr'd off all my ruſt, and made me white.</l>
+               </lg>
+               <lg>
+                  <l>Gods <hi>violls powred-forth;</hi> yet, makes not them</l>
+                  <l>So ready to repent, as to blaſpheme.</l>
+                  <l>His <hi>Hammer</hi> doth not ſoften, but obdure:</l>
+                  <l>
+                     <hi>The Bile muſt break, before the</hi> Cere-cloth <hi>cure:</hi>
+                  </l>
+                  <l>For, while the <hi>Plague-ſore</hi> ſwells, the Patient growes</l>
+                  <l>So mad, he takes his friends to be his foes:</l>
+                  <l>
+                     <pb n="16" facs="tcp:154848:9"/>
+And will not be adviſed, till he leaves</l>
+                  <l>His <hi>ravings,</hi> and <hi>Gods-marks</hi> on him, perceives.</l>
+               </lg>
+               <lg>
+                  <l>But, when my houre is come, will be bold</l>
+                  <l>To ſpeak, what I am prompted to unfold.</l>
+                  <l>For, therefore was I borne; yea therefore, yet</l>
+                  <l>I live, to tell men that which they forget.</l>
+                  <l>And, though but few regard what <hi>now</hi> I ſay,</l>
+                  <l>Some do; and moſt men will, <hi>another</hi> day.</l>
+               </lg>
+               <closer>
+                  <signed>Your true-ſpeaking, and faithfull Servant, and REMEMBRANCER, Geo. VVither.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by R. A. 1644.</p>
+            <pb facs="tcp:154848:9" rendition="simple:additions"/>
+         </div>
+      </back>
+   </text>
+</TEI>
